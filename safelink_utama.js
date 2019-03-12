@@ -19,18 +19,12 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*10)+ 1);
+var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="30-year-home-loans.html"}
-if(x=="2"){xxx="best-student-loan-consolidation.html"}
-if(x=="3"){xxx="bad-credit-home-equity-line-of-credit.html"}
-if(x=="4"){xxx="bad-credit-home-loans.html"}
-if(x=="5"){xxx="california-home-equity-line-of-credit.html"}
-if(x=="6"){xxx="home-equity-line-of-credit-information.html"}
-if(x=="7"){xxx="mortgages-for-people-with-bad-credit.html"}
-if(x=="8"){xxx="student-loan-consolidation-rates.html"}
-if(x=="9"){xxx="things-to-know-car-loan.html"}
-if(x=="10"){xxx="wells-fargo-home-equity-lines-of-credit.html"}a_to_ve[i].href="https://link.randi.id/2019/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="10-web-hosting-terbaik-indonesia.html"}
+if(x=="2"){xxx="10-software-penting-untuk-laptop-dan-pc.html"}
+if(x=="3"){xxx="3-aplikasi-akuntansi-online-terbaik.html"}
+if(x=="4"){xxx="peluang-bisnis-online-rumahan-tanpa-modal.html"}a_to_ve[i].href="https://link.randi.id/2019/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
